@@ -35,13 +35,6 @@ Hey there 👋 ! I'm Raman and this repository houses my profile description.<br
 ![Wagmi](https://img.shields.io/badge/wagmi-%23000000.svg?style=for-the-badge&logo=wagmi&logoColor=white)
 
 
-<div align="center">
-  <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=RamanAgrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamanAgrawal&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanAgrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
-
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
