@@ -48,6 +48,18 @@ Hey there 👋 ! I'm Raman and this repository houses my profile description.<br
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
+<div align="center">
+  <img 
+    src="https://www.theraman.in/trophy.png" 
+    alt="Random Dev Quote" 
+    style="pointer-events: none;"
+  />
+</div>
+
+
+
+
+
 
 
 
